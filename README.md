@@ -1,12 +1,8 @@
 <h1>JS DOCUMENTATION</h1>
 
-Javascrip dökümantasyon bilgileri.
+Javascript Documentation Website
 
-<h2>Harici Kullanılan Özellikler</h2>
-
-Media query
-
-<h2>Ekran Görüntüsü</h2>
+<h2>Screen View</h2>
 
 ![](jsscreen.gif)
 
